@@ -1,7 +1,7 @@
 import { Routes, Route ,Router} from 'react-router-dom'
 import Landing from './pages/Landing.jsx'
-import  Authentication  from './pages/authentication.jsx'
-import VideoMeetComponent from './pages/videomeet.jsx'
+import  Authentication  from './pages/Authentication.jsx'
+import VideoMeetComponent from './pages/VideoMeet.jsx'
 import  HomeComponent  from './pages/home.jsx'
 import History from './pages/history.jsx'
 
